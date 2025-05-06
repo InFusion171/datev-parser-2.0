@@ -12,3 +12,8 @@ Die konvertierten Bankumsätze liegen nun als .txt Datei im gewünschten Verzeic
 
 Diese können nun in DATEV eingelesen werden
 
+## **Ausführen**
+
++ Python3.12 oder höher
+
++ Bibliotheken: Chardet, PySide6, TKinter
